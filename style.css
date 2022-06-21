@@ -1,0 +1,27 @@
+p {
+   line-height: 24px; 
+}
+ol {
+    list-style-type: disc;
+    line-height: 24px;
+}
+
+figure {
+    float: left;
+    padding: 15px;
+    border: solid 2px #ddd;
+    margin: 0 30px 25px 0;
+}
+
+figcaption{
+    font-size: 13px;
+}
+
+.piece-name {
+    font-weight: 700;
+}
+
+.piece-hint {
+    font-size: 14px;
+    font-style: italic;
+}
